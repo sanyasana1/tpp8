@@ -1,0 +1,9 @@
+{
+  "name": "pr-tpp8",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sqlite3",
+    "sqlite-orm"
+  ],
+  "builtin-baseline": "b94b6bdc326c0faea9070b4862e0e0d4e4ac5396"
+}
